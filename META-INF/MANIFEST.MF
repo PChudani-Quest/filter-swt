@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: filter-swt
+Bundle-SymbolicName: filter-swt
+Bundle-Version: 1.0.0.qualifier
+Export-Package: .
+Require-Bundle: org.eclipse.swt,
+ org.eclipse.nebula.widgets.grid,
+ org.eclipse.jface,
+ org.eclipse.core.runtime
